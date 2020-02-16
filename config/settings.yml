@@ -1,0 +1,7 @@
+config:
+  mailer:
+    address: "email-smtp.ap-south-1.amazonaws.com"
+aws:
+  ses:
+    region: "ap-south-1"
+    sender_name: "NamDV"
